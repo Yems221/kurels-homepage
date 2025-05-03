@@ -90,7 +90,7 @@ const HeroSection = () => {
               <div className="absolute -right-14 bottom-24 animate-float" style={{ animationDelay: "1s" }}>
                 <div className="w-28 h-28 bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
                   <div className="w-full h-full bg-kurels-peach/40 rounded-lg flex items-center justify-center">
-                    <span className="text-xs font-medium">Cartes Ansaarudiine</span>
+                    <span className="text-xs font-medium">Cartes Speciale</span>
                   </div>
                 </div>
               </div>

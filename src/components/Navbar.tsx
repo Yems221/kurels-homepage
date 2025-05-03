@@ -12,7 +12,12 @@ const Navbar = () => {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <a href="/" className="flex items-center">
+            <a href="/" className="flex items-center gap-2">
+              <img 
+                src="/lovable-uploads/9b04edcc-2fc3-4d95-8239-5f5022dcc439.png" 
+                alt="Kurels Logo" 
+                className="h-8 w-8"
+              />
               <span className="text-2xl font-bold text-kurels-dark-purple">Kurels<span className="text-kurels-purple">.com</span></span>
             </a>
           </div>

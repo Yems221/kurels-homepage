@@ -11,9 +11,9 @@ const SpecialFeatures = () => {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-          {/* Ansaarudiine Cards */}
+          {/* Carte Speciale Cards */}
           <div className="card p-8 bg-gradient-to-br from-white to-kurels-soft-purple/20 shadow-lg">
-            <h3 className="text-2xl font-bold mb-4">Cartes Ansaarudiine</h3>
+            <h3 className="text-2xl font-bold mb-4">Cartes Speciale</h3>
             <p className="text-gray-700 mb-6">
               Un système de paiement simplifié pour les associations religieuses, permettant le paiement des cartes via un lien court envoyé par SMS.
             </p>
@@ -59,7 +59,7 @@ const SpecialFeatures = () => {
             <div className="mt-8 bg-white p-4 rounded-lg border border-gray-200 shadow-sm">
               <div className="text-sm mb-2 text-gray-500">Exemple de lien de paiement :</div>
               <div className="font-mono text-sm bg-kurels-light-gray p-2 rounded">
-                kurels.com/ansaarudiine/pay/Sd9MZ6oFsB/
+                kurels.com/carte-speciale/pay/Sd9MZ6oFsB/
               </div>
             </div>
           </div>
